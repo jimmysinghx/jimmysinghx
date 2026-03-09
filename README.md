@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jimmy Singh</h1>
+<h1 align="center">Hi, I'm Jimmy </h1>
 <h3 align="center">Computer Science Student | Backend Developer</h3>
 - Computer Science student at VIT Bhopal  
 - Interested in Backend Development and System Design  
