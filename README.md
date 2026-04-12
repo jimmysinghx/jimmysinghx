@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=Jimmy%20Singh&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Backend%20Developer%20%7C%20CS%20Student%20%40%20VIT%20Bhopal&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=jimmy&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Backend%20Developer%20%7C%20CS%20Student%20%40%20VIT%20Bhopal&descAlignY=58&descAlign=50&descSize=18&font=Poppins" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7B5CF0&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Building+APIs+%26+Systems+%F0%9F%94%A7;CS+Student+%40+VIT+Bhopal+%F0%9F%8E%93;Open+to+Internships+%26+Collab+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
@@ -78,20 +78,13 @@ class JimmySingh:
 ---
 
 ## 🚀 Featured Projects
-
 <div align="center">
-
 <a href="https://github.com/jimmysinghx/task-manager-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jimmysinghx&repo=task-manager-api&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b5cf0&icon_color=5dcaa5&text_color=c9d1d9" />
 </a>
 &nbsp;
 <a href="https://github.com/jimmysinghx/student-result-portal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jimmysinghx&repo=student-result-portal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b5cf0&icon_color=5dcaa5&text_color=c9d1d9" />
 </a>
-
 </div>
-
-<br/>
 
 ### 📌 Task Manager API
 
@@ -126,28 +119,11 @@ class JimmySingh:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jimmysinghx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7b5cf0&icon_color=5dcaa5&text_color=c9d1d9&ring_color=7b5cf0"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmysinghx&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7b5cf0&text_color=c9d1d9"/>
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimmysinghx&theme=tokyonight&hide_border=true&background=0d1117&ring=7b5cf0&fire=5dcaa5&currStreakLabel=7b5cf0&sideLabels=c9d1d9&dates=c9d1d9" />
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jimmysinghx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
 
 <div align="center">
 
@@ -155,17 +131,11 @@ class JimmySingh:
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
 <div align="center">
 
-![snake animation](https://raw.githubusercontent.com/jimmysinghx/jimmysinghx/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://raw.githubusercontent.com/jimmysinghx/jimmysinghx/output/github-contribution-grid-snake.svg)
 
 </div>
-
----
 
 <div align="center">
 
@@ -174,7 +144,6 @@ class JimmySingh:
 
 </div>
 
----
 
 <div align="center">
 
